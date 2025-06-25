@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://cdn.d1baseball.com/uploads/2023/12/21144147/umasslowell.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.d1baseball.com/uploads/2023/12/21144147/umasslowell.png" alt="Logo" width="800" height="800">
   </a>
 
 <h3 align="center">Riverhawk Racing Dashboard</h3>
