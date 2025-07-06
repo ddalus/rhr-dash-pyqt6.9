@@ -114,9 +114,9 @@ Instalation prerequisites:
 
   ### Step 1:
   Turn on Pi and in the command line
-    ```sh
-    sudo raspi-config
-    ```
+      ```sh
+      sudo raspi-config
+      ```
 
 Step 2:
 
