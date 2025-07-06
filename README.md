@@ -109,8 +109,12 @@ Instalation prerequisites.
   ```sh
   https://doc.qt.io/qt-6/qtquick-deployment.html (in the top right there is a download buttom)
   ```
-
-
+  
+* Change WIfi on RasberryPI
+Step 1: Turn on Pi and in the command line
+  ```sh
+  sudo raspi-config
+  ```
 
 
 <!-- USAGE EXAMPLES -->
