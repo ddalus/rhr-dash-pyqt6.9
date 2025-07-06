@@ -111,7 +111,7 @@ Instalation prerequisites.
   ```
   
 * Change WIfi on RasberryPI
-Step 1: Turn on Pi and in the command line
+  Step 1: Turn on Pi and in the command line
   ```sh
   sudo raspi-config
   ```
