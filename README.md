@@ -95,7 +95,7 @@ The dashboard is an essentail part of the car that updates the driver in real ti
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The two prerequisited languages are PyQt6 and QML6.9(nice), not too bad of an install, just pip install for the python libary in command prompt and install qml directly from their website.
+The two prerequisited languages are PyQt6 and QML6.9, just pip install for the python libary in command prompt and install qml directly from their website.
 
 ### Prerequisites
 
