@@ -154,7 +154,7 @@ Instalation prerequisites.
 
   When prompted type yes
 
-  * Dashboard Start
+* Dashboard Start
   ```sh
   startx
   ```
