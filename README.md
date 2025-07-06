@@ -117,42 +117,42 @@ Instalation prerequisites:
   sudo raspi-config
   ```
 
-  Step 2:
+Step 2:
 
-  Scroll to System Options using arrow keys and press enter
+Scroll to System Options using arrow keys and press enter
 
-  Step 3:
+Step 3:
 
-  Scroll to Wireless LAN
+Scroll to Wireless LAN
 
-  Step 4:
+Step 4:
 
-  Enter the SSID and password of the wifi that the laptop is using that you plan on sshing from
+Enter the SSID and password of the wifi that the laptop is using that you plan on sshing from
 
 
 
 
 * How to SSH into RasberryPi
 
-  Step 1:
+Step 1:
 
   Open CMD on the computer you are trying to connect the pi to and enter the command
   ```sh
   SSH [username]@[ip address]
   ```
 
-  Step 1.5:
+Step 1.5:
 
-  If RasberryPi IP is unknown on the Pi comand line type:
+If RasberryPi IP is unknown on the Pi comand line type:
   ```sh
   ifconfig
   ```
   
-  Look for inet and use that as IP address
+Look for inet and use that as IP address
 
-  Step 2:
+Step 2:
 
-  When prompted type yes
+When prompted type yes
 
 * Dashboard Start
   ```sh
