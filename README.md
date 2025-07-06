@@ -11,13 +11,12 @@
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Contributors](https://img.shields.io/github/contributors/ddalus/rhr-dash-pyqt6.9.svg?style=for-the-badge)](https://github.com/ddalus/rhr-dash-pyqt6.9/commits?author=ddalus&since=2025-07-01&until=2025-07-07)
+[![Forks](https://img.shields.io/github/forks/ddalus/rhr-dash-pyqt6.9.svg?style=for-the-badge)](https://github.com/ddalus/rhr-dash-pyqt6.9/forks)
+[![Stargazers](https://img.shields.io/github/stars/ddalus/rhr-dash-pyqt6.9.svg?style=for-the-badge)](https://github.com/ddalus/rhr-dash-pyqt6.9/stargazers)
+[![Issues](https://img.shields.io/github/issues/ddalus/rhr-dash-pyqt6.9.svg?style=for-the-badge)](https://github.com/ddalus/rhr-dash-pyqt6.9/issues)
+[![License](https://img.shields.io/github/license/ddalus/rhr-dash-pyqt6.9.svg?style=for-the-badge)](https://github.com/danamon2002/RHR25-Dash/blob/main/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-mankoski-37039328a/)
 
 <!-- PROJECT LOGO -->
 <br />
