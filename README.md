@@ -99,7 +99,7 @@ The two prerequisited languages are PyQt6 and QML6.9(nice), not too bad of an in
 
 ### Prerequisites
 
-Instalation prerequisites.
+Instalation prerequisites:
 * PyQt6
   ```sh
   -pip install pyqt6
