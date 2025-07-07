@@ -100,21 +100,21 @@ The two prerequisited languages are PyQt6 and QML6.9, just pip install for the p
 ### Prerequisites
 
 Instalation prerequisites:
-* PyQt6
+* ## PyQt6
   ```sh
   -pip install pyqt6
   ```
 
 
 
-* QML
+* ## QML
   ```sh
   https://doc.qt.io/qt-6/qtquick-deployment.html (in the top right there is a download buttom)
   ```
 
 
   
-* Change WIfi on RasberryPi
+* ## Change WIfi on RasberryPi
 
   ### Step 1:
   Turn on Pi and in the command line
@@ -139,9 +139,9 @@ Instalation prerequisites:
 
 
 
-* How to SSH into RasberryPi
+* ## How to SSH into RasberryPi
 
-Step 1:
+  Step 1:
 
   Open CMD on the computer you are trying to connect the pi to and enter the command
   ```sh
