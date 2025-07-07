@@ -141,27 +141,30 @@ Instalation prerequisites:
 
 * ## How to SSH into RasberryPi
 
-  Step 1:
+  ### Step 1:
 
   Open CMD on the computer you are trying to connect the pi to and enter the command
   ```sh
   SSH [username]@[ip address]
   ```
 
-Step 1.5:
+  ### Step 1.5:
 
-If RasberryPi IP is unknown on the Pi comand line type:
+  If RasberryPi IP is unknown on the Pi comand line type:
   ```sh
   ifconfig
   ```
   
-Look for inet and use that as IP address
+  Look for inet and use that as IP address
 
-Step 2:
+  ### Step 2:
 
-When prompted type yes
+  When prompted type:
+  ```sh
+  yes
+  ```
 
-* Dashboard Start
+* ## Dashboard Start
   ```sh
   startx
   ```
