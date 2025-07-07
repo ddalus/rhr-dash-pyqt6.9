@@ -105,10 +105,14 @@ Instalation prerequisites:
   -pip install pyqt6
   ```
 
+
+
 * QML
   ```sh
   https://doc.qt.io/qt-6/qtquick-deployment.html (in the top right there is a download buttom)
   ```
+
+
   
 * Change WIfi on RasberryPi
 
@@ -120,17 +124,17 @@ Instalation prerequisites:
   sudo raspi-config
   ```
 
-Step 2:
+  ### Step 2:
 
-Scroll to System Options using arrow keys and press enter
+  Scroll to System Options using arrow keys and press enter
 
-Step 3:
+  ### Step 3:
 
-Scroll to Wireless LAN
+  Scroll to Wireless LAN
 
-Step 4:
+  ### Step 4:
 
-Enter the SSID and password of the wifi that the laptop is using that you plan on sshing from
+  Enter the SSID and password of the wifi that the laptop is using that you plan on sshing from
 
 
 
